@@ -16,13 +16,13 @@
 		7F8644F72A6CF59600786402 /* CreateIceCreamInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F8644F62A6CF59600786402 /* CreateIceCreamInteractor.swift */; };
 		7F8644F92A6CF83800786402 /* CreateIceCreamPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F8644F82A6CF83800786402 /* CreateIceCreamPresenter.swift */; };
 		7F8644FB2A6CFC0600786402 /* CreateIceCreamConfigurator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F8644FA2A6CFC0600786402 /* CreateIceCreamConfigurator.swift */; };
-		7F8644FF2A6D07F900786402 /* CreateIceCreamInteractorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F8644FC2A6D07F900786402 /* CreateIceCreamInteractorTests.swift */; };
-		7F8645002A6D07F900786402 /* CreateIceCreamPresenterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F8644FD2A6D07F900786402 /* CreateIceCreamPresenterTests.swift */; };
-		7F8645012A6D07F900786402 /* CreateIceCreamViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F8644FE2A6D07F900786402 /* CreateIceCreamViewTests.swift */; };
 		7F8645032A6D140E00786402 /* CreateIceCreamDisplayLogic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F8645022A6D140E00786402 /* CreateIceCreamDisplayLogic.swift */; };
 		7F8645062A6D15CB00786402 /* CreateIceCreamInteractorSpy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F8645052A6D15CB00786402 /* CreateIceCreamInteractorSpy.swift */; };
 		7F8645082A6D15FB00786402 /* CreateIceCreamViewSpy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F8645072A6D15FB00786402 /* CreateIceCreamViewSpy.swift */; };
 		7F86450A2A6D162600786402 /* CreateIceCreamPresenterSpy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F8645092A6D162600786402 /* CreateIceCreamPresenterSpy.swift */; };
+		7F990D792A6E89E6004E21BA /* CreateIceCreamPresenterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F990D762A6E89E6004E21BA /* CreateIceCreamPresenterTests.swift */; };
+		7F990D7A2A6E89E6004E21BA /* CreateIceCreamViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F990D772A6E89E6004E21BA /* CreateIceCreamViewTests.swift */; };
+		7F990D7B2A6E89E6004E21BA /* CreateIceCreamInteractorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F990D782A6E89E6004E21BA /* CreateIceCreamInteractorTests.swift */; };
 		EA3B6B7227282CD800CE9E2B /* IceCream.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3B6B7127282CD800CE9E2B /* IceCream.swift */; };
 		EA3B6B77272836B900CE9E2B /* IceCreamDataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3B6B76272836B900CE9E2B /* IceCreamDataStore.swift */; };
 		EA42A07F272EEBF900A82D0A /* CodableBundleExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA42A07E272EEBF900A82D0A /* CodableBundleExtension.swift */; };
@@ -54,13 +54,13 @@
 		7F8644F62A6CF59600786402 /* CreateIceCreamInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateIceCreamInteractor.swift; sourceTree = "<group>"; };
 		7F8644F82A6CF83800786402 /* CreateIceCreamPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateIceCreamPresenter.swift; sourceTree = "<group>"; };
 		7F8644FA2A6CFC0600786402 /* CreateIceCreamConfigurator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateIceCreamConfigurator.swift; sourceTree = "<group>"; };
-		7F8644FC2A6D07F900786402 /* CreateIceCreamInteractorTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CreateIceCreamInteractorTests.swift; path = "Test Classes/CreateIceCreamInteractorTests.swift"; sourceTree = SOURCE_ROOT; };
-		7F8644FD2A6D07F900786402 /* CreateIceCreamPresenterTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CreateIceCreamPresenterTests.swift; path = "Test Classes/CreateIceCreamPresenterTests.swift"; sourceTree = SOURCE_ROOT; };
-		7F8644FE2A6D07F900786402 /* CreateIceCreamViewTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CreateIceCreamViewTests.swift; path = "Test Classes/CreateIceCreamViewTests.swift"; sourceTree = SOURCE_ROOT; };
 		7F8645022A6D140E00786402 /* CreateIceCreamDisplayLogic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateIceCreamDisplayLogic.swift; sourceTree = "<group>"; };
 		7F8645052A6D15CB00786402 /* CreateIceCreamInteractorSpy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateIceCreamInteractorSpy.swift; sourceTree = "<group>"; };
 		7F8645072A6D15FB00786402 /* CreateIceCreamViewSpy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateIceCreamViewSpy.swift; sourceTree = "<group>"; };
 		7F8645092A6D162600786402 /* CreateIceCreamPresenterSpy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateIceCreamPresenterSpy.swift; sourceTree = "<group>"; };
+		7F990D762A6E89E6004E21BA /* CreateIceCreamPresenterTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateIceCreamPresenterTests.swift; sourceTree = "<group>"; };
+		7F990D772A6E89E6004E21BA /* CreateIceCreamViewTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateIceCreamViewTests.swift; sourceTree = "<group>"; };
+		7F990D782A6E89E6004E21BA /* CreateIceCreamInteractorTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateIceCreamInteractorTests.swift; sourceTree = "<group>"; };
 		EA3B6B652725B14100CE9E2B /* ScoopsAndSconesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScoopsAndSconesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA3B6B7127282CD800CE9E2B /* IceCream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IceCream.swift; sourceTree = "<group>"; };
 		EA3B6B76272836B900CE9E2B /* IceCreamDataStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IceCreamDataStore.swift; sourceTree = "<group>"; };
@@ -139,6 +139,9 @@
 				7F8645052A6D15CB00786402 /* CreateIceCreamInteractorSpy.swift */,
 				7F8645072A6D15FB00786402 /* CreateIceCreamViewSpy.swift */,
 				7F8645092A6D162600786402 /* CreateIceCreamPresenterSpy.swift */,
+				7F990D782A6E89E6004E21BA /* CreateIceCreamInteractorTests.swift */,
+				7F990D762A6E89E6004E21BA /* CreateIceCreamPresenterTests.swift */,
+				7F990D772A6E89E6004E21BA /* CreateIceCreamViewTests.swift */,
 			);
 			path = Spy;
 			sourceTree = "<group>";
@@ -220,9 +223,6 @@
 			isa = PBXGroup;
 			children = (
 				7F8645042A6D15B100786402 /* Spy */,
-				7F8644FC2A6D07F900786402 /* CreateIceCreamInteractorTests.swift */,
-				7F8644FD2A6D07F900786402 /* CreateIceCreamPresenterTests.swift */,
-				7F8644FE2A6D07F900786402 /* CreateIceCreamViewTests.swift */,
 			);
 			path = IceCream;
 			sourceTree = "<group>";
@@ -358,11 +358,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				EAEAAE6227415B3E0015D245 /* Seeds.swift in Sources */,
-				7F8644FF2A6D07F900786402 /* CreateIceCreamInteractorTests.swift in Sources */,
+				7F990D792A6E89E6004E21BA /* CreateIceCreamPresenterTests.swift in Sources */,
+				7F990D7B2A6E89E6004E21BA /* CreateIceCreamInteractorTests.swift in Sources */,
 				7F86450A2A6D162600786402 /* CreateIceCreamPresenterSpy.swift in Sources */,
-				7F8645002A6D07F900786402 /* CreateIceCreamPresenterTests.swift in Sources */,
-				7F8645012A6D07F900786402 /* CreateIceCreamViewTests.swift in Sources */,
 				7F8645082A6D15FB00786402 /* CreateIceCreamViewSpy.swift in Sources */,
+				7F990D7A2A6E89E6004E21BA /* CreateIceCreamViewTests.swift in Sources */,
 				7F8645062A6D15CB00786402 /* CreateIceCreamInteractorSpy.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
